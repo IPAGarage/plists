@@ -1,9 +1,9 @@
 [
     {
-        "title": "App Name",
-        "subtitle": "Subtitle",
-        "icon": "https://app.eonhubapp.com/img/icon.png",
-        "url": "itms-services://?action=download-manifest&url=https://repo.eonhubapp.com/plists/app.plist"
+        "title": "Geometry Dash Pikachu",
+        "subtitle": "Just like it says on the tin, Geometry Dash, but it's Pikachu",
+        "icon": "https://i.pinimg.com/originals/4f/9e/b8/4f9eb8626e417cba940311b9bdb64547.jpg",
+        "url": "itms-services://?action=download-manifest&url=https://https://github.com/IPAGarage/GeometryDashTexturePacks/releases/download/v1.0/Pikachu.Dash.2.11.by.Zudari5.ipa"
     },
     {
         "title": "App Name",
