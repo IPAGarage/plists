@@ -3,13 +3,13 @@
         "title": "Geometry Dash Pikachu",
         "subtitle": "Tweaked Apps",
         "icon": "https://i.pinimg.com/originals/4f/9e/b8/4f9eb8626e417cba940311b9bdb64547.jpg",
-        "url": "itms-services://?action=download-manifest&url=https://https://github.com/IPAGarage/GeometryDashTexturePacks/releases/download/v1.0/Pikachu.Dash.2.11.by.Zudari5.ipa"
+        "url": "itms-services://?action=download-manifest&url=https://github.com/IPAGarage/plists/blob/main/plist%20files/GeometryDashPikachu.plist"
     },
     {
-        "title": "App Name",
-        "subtitle": "Subtitle",
-        "icon": "https://app.eonhubapp.com/img/icon.png",
-        "url": "itms-services://?action=download-manifest&url=https://repo.eonhubapp.com/plists/app.plist"
+        "title": "Super Mario Dash",
+        "subtitle": "Tweaked Apps",
+        "icon": "https://www.pngfind.com/pngs/m/20-202320_mario-sprite-png-mario-8-bits-transparent-png.png",
+        "url": "itms-services://?action=download-manifest&url=https://github.com/IPAGarage/plists/blob/main/plist%20files/SuperMarioDash.plist"
     },
     {
         "title": "App Name",
