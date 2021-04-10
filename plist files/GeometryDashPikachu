@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.robtop.geometryjump</string>
+				<string>com.robtop.geometrypikachu</string>
 				<key>bundle-version</key>
 				<string>4.0</string>
 				<key>kind</key>
