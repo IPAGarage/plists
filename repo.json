@@ -12,6 +12,18 @@
         "url": "itms-services://?action=download-manifest&url=https://github.com/IPAGarage/plists/blob/main/plist%20files/SuperMarioDash.plist"
     },
     {
+        "title": "Among Us tweaked by PMT",
+        "subtitle": "Version 2021.4.12",
+        "icon": "https://i.pinimg.com/736x/f2/7d/ac/f27dac5526115a60c063699bdff1d10e.jpg",
+        "url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/IPAGarage/plists/main/plist%20files/AmongUs.plist"
+    }
+    {
+        "title": "App Name",
+        "subtitle": "Subtitle",
+        "icon": "https://app.eonhubapp.com/img/icon.png",
+        "url": "itms-services://?action=download-manifest&url=https://repo.eonhubapp.com/plists/app.plist"
+    }
+    {
         "title": "App Name",
         "subtitle": "Subtitle",
         "icon": "https://app.eonhubapp.com/img/icon.png",
